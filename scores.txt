@@ -1,0 +1,4 @@
+sa,9,10,Easy
+sa,8,8,Medium
+sa,10,41,Hard
+sa,9,9,Easy
