@@ -1,1 +1,0 @@
-# Saalik--3PAD-Assessment
